@@ -39,7 +39,7 @@
 <p align="center">
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zubair-Shukoory&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="Kaweesi-Matia" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zubair-Shukoory&show_icons=true&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&hide_border=true" alt="ZubairShukoory" />
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Zubair-Shukoory&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD" alt="Zubair-Shukoory" />
  
