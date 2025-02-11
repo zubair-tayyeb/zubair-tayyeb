@@ -56,8 +56,8 @@
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ZubairShukoory/" />
     </a>
     <a href="https://x.com/">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://x.com/kaweesimatia" />
-    <a title="Kaweesi Matia" href="mailto:matiakaweesi@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://x.com/Zubair_shukoory" />
+    <a title="Zubair Shukoory" href="mailto:zubairshukoory@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zubairshukoory@gmail.com" />
     </a>
 </p>
